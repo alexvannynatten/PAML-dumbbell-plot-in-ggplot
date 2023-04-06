@@ -11,6 +11,6 @@ To modify for use on other PAML clade model datasets the following template for 
 | Grouping ID for gene B | Background | "Name of Gene B" | 0.053 |
 | ... | ... | ... | ... |
 
-Grouping IDs will separate genes into separate facets
+Grouping IDs will separate genes into facets (see photoreceptor classes in example output pdf file)
 
 Gene names will be used for Y axis labels identifying the genes on the plot
