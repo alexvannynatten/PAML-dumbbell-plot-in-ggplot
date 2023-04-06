@@ -15,4 +15,4 @@ Grouping IDs will separate genes into facets (see photoreceptor classes in examp
 
 Gene names will be used for Y axis labels identifying the genes on the plot
 
-![dumbbell-plot-output](https://github.com/alexvannynatten/PAML-dumbbell-plot-in-ggplot/blob/f1da6c35138ae5caa6eda78d4348d92c499ece58/Snake_Reptile_CmC_dumbbell_plot.png)
+![dumbbell-plot-output](https://github.com/alexvannynatten/PAML-dumbbell-plot-in-ggplot/blob/011037ddd0f72c6e8641d5c2550e3b39bab637a5/Snake_Reptile_CmC_dumbbell_plot.pdf)
